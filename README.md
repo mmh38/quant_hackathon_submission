@@ -1,4 +1,4 @@
-# quant_hackathon_submission_Team_XYZ
+# Quant Hackathon Submission
 
 Team name: Team XYZ
 Team member: 
